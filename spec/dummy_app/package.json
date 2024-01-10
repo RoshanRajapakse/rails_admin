@@ -8,7 +8,7 @@
     "@rails/webpacker": "5.4.3",
     "rails_admin": "file:../../",
     "trix": "^2.0.0-beta.0",
-    "webpack": "^4.46.0",
+    "webpack": "^5.1.1",
     "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
